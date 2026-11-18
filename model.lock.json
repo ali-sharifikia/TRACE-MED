@@ -1,0 +1,5 @@
+{
+  "model": "qwen3:8b",
+  "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+  "basis": "Installed model digest recorded by the completed threshold-T test run"
+}

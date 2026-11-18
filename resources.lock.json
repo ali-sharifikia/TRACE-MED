@@ -1,0 +1,9 @@
+{
+  "meddra_exact_reference.csv": "31bc40d977c408d44e5b45c5d9a934cd2a3eb5dd7dc1a62d5d492f2c9069ccb6",
+  "llt.asc": "719e14924ca36a93f414ef5514c6c36ee7d90d5a4d8832563779545925d4262f",
+  "pt.asc": "eb7c5283d8560734f9c78d4a56e08036f94eae3d59f1e81e54ac67767d47c359",
+  "lexicon_words.json": "01d4027e463216d0229ea9ab346c18f5be8b03c0cf4446e717daf46fa7b19cb5",
+  "lexicon_phrases.json": "231e54fe64aec50fda3e38c032c891186fcd4fe7385ff982beb7fe3bcaba71bb",
+  "lexicon_nominalizations.json": "81e2c2406a609c938e19f3070ae3a590107a344380400d29881658f57177ebac",
+  "lexicon_agreement.json": "c704af4a1b5d423d7b112ee177d35d635c6dd5d0d596a2a0137b2a2b34131d43"
+}

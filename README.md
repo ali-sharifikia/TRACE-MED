@@ -1,4 +1,4 @@
-# TRACE
+# TRACE-MED
 
 TRACE standardizes clinical expressions to MedDRA Preferred Terms (PTs) and Lowest Level Terms (LLTs). It combines terminology retrieval, LLM-based interpretation and review, deterministic validation, and rule-based completion.
 
